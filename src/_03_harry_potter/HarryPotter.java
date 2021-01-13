@@ -8,10 +8,11 @@ package _03_harry_potter;
 		 * The main method should:
 		 * 
 		* 1. create harry potter
+		
 		* 2. make him become invisible
 		* 3. spy on Professor Snape
 		* 4. make him become visible again
-		* 5. cast a “stupefy” spell
+		* 5. cast a  spell
 		*/
 
 public class HarryPotter {
